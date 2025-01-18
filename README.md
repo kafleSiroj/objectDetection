@@ -23,6 +23,12 @@
    pip install -r requirements.txt
    ```
 
+3. Uninstall watchdog (if installed):
+
+   ```bash
+   pip uninstall watchdog
+   ```
+   
 ## Usage
 
 ### Running the Chatbot
