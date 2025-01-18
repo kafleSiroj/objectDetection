@@ -1,0 +1,6 @@
+flask
+ultralytics
+torch
+flask_session
+pillow
+opencv-python
