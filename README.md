@@ -39,4 +39,4 @@
    python app/backend/app.py
    ```
 
-2. Open the chatbot interface in your browser (`http://127.0.0.1:5000` or `Your default IP4 address`).
+2. Open the chatbot interface in your browser (`http://127.0.0.1:5000` or `Your PC's IP4 address:5000`).
